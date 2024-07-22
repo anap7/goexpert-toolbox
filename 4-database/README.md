@@ -10,6 +10,6 @@ Dentro do container do mysql, acessar seu root: \
 Dentro do root do seu mysql, criar a tabela e fazer os comandos necessários: \
 `create table wsqlproducts (id varchar(255), name varchar(80), price decimal(10,2), primary key(id))`
 
-*A criação da tabela é apenas para o exemplo writtensql, no exemplo do gorm, as tabelas são criadas automaticamente :D*
+*A criação da tabela é apenas para o projeto de exemplo `basic-crud-with-written-sql`. No projeto de exemplo do `basic-crud-with-gorm`, as tabelas são criadas automaticamente :D*
 
 
