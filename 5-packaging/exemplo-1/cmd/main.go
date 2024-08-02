@@ -8,6 +8,5 @@ import (
 func main() {
 	m := math.NewMath(30, 50)
 	fmt.Println(m.Add())
-	
-	fmt.Println("Hello, World!")
+	fmt.Println(math.X)
 }
